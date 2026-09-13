@@ -1,3 +1,4 @@
+https://chatgpt.com/share/6aa723d7-6184-83eb-9be8-6d243f5ce149
 # AI Image Batch Editor
 
 Windows desktop MVP: .NET 10 + WPF.
